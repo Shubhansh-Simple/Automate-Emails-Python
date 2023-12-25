@@ -8,6 +8,14 @@
 </p>
 
 ---
+## Sender & Reciever
+<p align="center">
+  <a alt="Sender" href="https://shub.pythonanywhere.com/projects/">
+    <img alt="Reciever-Screenshot" src="https://raw.githubusercontent.com/Shubhansh-Simple/Automate-Emails-Python/main/Screenshots/SenderView.png" height="600" /> 
+  </a>
+</p>
+
+---
 
 # Description
 <b>.)</b> Developed a Python script that enables the sending of up to 100 emails simultaneously, with the flexibility to repeat the process as needed. <br>
