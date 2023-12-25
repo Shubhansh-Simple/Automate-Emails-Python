@@ -26,7 +26,6 @@
   <li>Scalability</li> 
   <li>Customization</li> 
 </ul>
-<br>
 <b>.)</b><i>Tools and skills</i> : <b>Python</b>, <b>SMTP-module</b>, <b>Gmail</b>
 <br>
 <br>
